@@ -1,0 +1,2 @@
+CVE_ID			Platform_1			Packages_Affected_1			Platform_2			Packages_Affected_2
+CVE-2025-0167	SUSE Linux Enterprise Server 15 SP3-LTSS	[('curl', '7.66.0-150200.4.84.1'), ('libcurl-devel', '7.66.0-150200.4.84.1'), ('libcurl4', '7.66.0-150200.4.84.1'), ('libcurl4-32bit', '7.66.0-150200.4.84.1')]		
