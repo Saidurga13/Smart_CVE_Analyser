@@ -1,0 +1,25 @@
+#This is a sample packages.json file for a product. We can use the json/xml file and update it in products.
+{
+  "pkg_list": [
+    {
+      "pkg_name": "curl",
+      "version": "7.66.0-150200.4.70.1"
+    },
+    {
+      "pkg_name": "libcurl-devel",
+      "version": "7.66.0-150200.4.70.1"
+    },
+    {
+      "pkg_name": "libcurl4",
+      "version": "7.66.0-150200.4.70.1"
+    },
+    {
+      "pkg_name": "libcurl4-32bit",
+      "version": "7.66.0-150200.4.70.1"
+    },
+    {
+      "pkg_name": "otherpkg",
+      "version": "1.0.0-1"
+    }
+  ]
+}
